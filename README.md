@@ -23,4 +23,4 @@ npm run start para rodar localmente o projeto
 npm run build para gerar uma versão estática do projeto (que ficará na pasta build)
 Deploy da Aplicação com Surge 💨
 
-http://andrebalsemao-astromatch.surge.sh/
+Ou acessar o link:  http://andrebalsemao-astromatch.surge.sh/
